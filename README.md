@@ -1,17 +1,4 @@
-<!-- Uploading "Screenshot 2025-02-03 194113.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 194104.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 194056.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 194048.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 194038.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 194006.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193956.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193947.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193940.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193927.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193844.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193829.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193814.png"... -->
-<!-- Uploading "Screenshot 2025-02-03 193804.png"... -->
+![](https://github.com/AyushBhure/Uber-clone/blob/2af99aa324d3e629b0b423e3e039d7cfe004572c/Screenshot%202025-02-03%20193804.png)
 # Uber Project
 This project is a clone of the Uber application, built with a React frontend and a Node.js backend. It includes user and captain (driver) functionalities, allowing users to book rides and captains to manage rides.
 
