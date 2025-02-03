@@ -146,17 +146,17 @@ uber-clone/
 - **GET /captains/profile**: Get captain profile (requires authentication)
 - **GET /captains/logout**: Logout a captain (requires authentication)
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<!-- Uploading "Screenshot 2025-02-03 194113.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 194104.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 194056.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 194048.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 194038.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 194006.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193956.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193947.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193940.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193927.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193844.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193829.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193814.png"... -->
+<!-- Uploading "Screenshot 2025-02-03 193804.png"... -->
