@@ -1,4 +1,4 @@
-# Uber Project
+# Cab Booking App
 This project is a clone of the Uber application, built with a React frontend and a Node.js backend. It includes user and captain (driver) functionalities, allowing users to book rides and captains to manage rides.
 
 ## Table of Contents
